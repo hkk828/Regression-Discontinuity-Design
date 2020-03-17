@@ -4,4 +4,4 @@ The regression discontinuity (RD) design is a branch of the observational study,
 
 **Keywords:** Regression discontinuity design; Causal inference; Observational study; Randomized Experiment; Bandwidth selection; Sensitivity analysis
 
-### This repository contains the **R** source codes that were used to generate the figures and results of my thesis.
+#### This repository contains the **R** source codes that were used to generate the figures and results of my thesis.
