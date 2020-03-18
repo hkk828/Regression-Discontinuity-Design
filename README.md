@@ -7,5 +7,5 @@ The regression discontinuity (RD) design is a branch of the observational study,
 
 #### This repository contains the **R** source codes that were used to generate the figures and results of my thesis. Names of the **R** codes with corresponding figures in the paper are listed below.
 
-Markup: * abc : figures1
-        * bcd : figures2
+* abc : figures1
+* bcd : figures2
